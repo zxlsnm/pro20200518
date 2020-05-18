@@ -6,7 +6,10 @@ public class Hello {
 		System.out.println("hello git.....");
 		System.out.println("hello git.....");
 		System.out.println("hello git.....");
-		System.out.println("hello git.....");//111111111
+		System.out.println("hello git.....");//黑
+		System.out.println("hello git.....");
+		System.out.println("hello git.....");
+		System.out.println("hello git.....");//白
 
 	}
 
